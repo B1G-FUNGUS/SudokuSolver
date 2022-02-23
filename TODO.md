@@ -1,0 +1,5 @@
+- add stuff to readme
+- add license
+- split up source file into multiple files
+- quality of life changes
+- add makefile
