@@ -1,4 +1,3 @@
-- Add license
 - Split up source file into multiple files
 - Make the interface easier to use, allow user to enter in numbers by just typing w/out having to click on every box
 - Add a program that can also solve boardstates with holes
